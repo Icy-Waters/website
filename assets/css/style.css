@@ -2,3 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
+header {
+  background: #37afe2;
