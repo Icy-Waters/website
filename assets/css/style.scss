@@ -3,5 +3,11 @@
 
 @import "{{ site.theme }}";
 header {
+  background: #eae6d1;
+}
+#banner {
+  background: #2b2b2b;
+}
+body {
   background: #37afe2;
 }
