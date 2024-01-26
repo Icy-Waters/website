@@ -51,3 +51,4 @@ Please click on the link for a copy of our [privacy notice.](/assets/Privacy pol
 - Icy Waters Consulting Limited is registered with the Information Commissioner’s Office. Registration reference: ZB636399
 - Ian Waters is a social worker, registered with Social Work England. Social worker registration number: SW42532
 - Member of the Federation of Small Businesses
+![FSB logo](assets/fsb.png)
