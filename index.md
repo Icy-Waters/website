@@ -36,10 +36,10 @@ Prior to consulting, Ian held various practice and managerial roles across child
 
 # Contact us
 
-If you would like to get in touch to talk about new or existing work, then please email ian@icywaters.co.uk
-If you would like to discuss payments, invoicing or other financial matters please contact finance@icywaters.co.uk
-If you have more general questions, then please email admin@icywaters.co.uk
-If you have a question relating to data and our privacy notice, then please email data@icyewaters.co.uk
+If you would like to get in touch to talk about new or existing work, then please email [ian@icywaters.co.uk](mailto:ian@icywaters.co.uk)
+If you would like to discuss payments, invoicing or other financial matters please contact [finance@icywaters.co.uk](mailto:finance@icywaters.co.uk)
+If you have more general questions, then please email [admin@icywaters.co.uk](mailto:admin@icywaters.co.uk)
+If you have a question relating to data and our privacy notice, then please email [data@icyewaters.co.uk](mailto:data@icyewaters.co.uk)
 
 # Data privacy
 
