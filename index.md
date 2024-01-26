@@ -43,7 +43,7 @@ If you have a question relating to data and our privacy notice, then please emai
 
 # Data privacy
 
-Please click on the link for a copy of our privacy notice.
+Please click on the link for a copy of our [privacy notice.](/assets/Privacy policy FINAL 5Dec23.pdf)
 
 # Company details
 
