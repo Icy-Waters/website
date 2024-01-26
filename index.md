@@ -34,7 +34,7 @@ We will typically combine a range of services and expertise to deliver these obj
 
 Ian is the managing director and will lead client delivery.<br>
 
-Ian’s background as a Social Worker within a local authority alongside# his experience leading transformation programmes in the public sector gives him a unique perspective enabling him to work effectively at all levels of an organisation, with external policy makers and regulators to design and deliver services to improve outcomes.<br> 
+Ian’s background as a Social Worker within a local authority alongside his experience leading transformation programmes in the public sector gives him a unique perspective enabling him to work effectively at all levels of an organisation, with external policy makers and regulators to design and deliver services to improve outcomes.<br> 
 
 Ian is passionate about improving citizen’s lives and has significant transformation experience in organisations responsible for children’s social care, adult’s social care and Integrated Care Systems (ICSs). A common feature of his work has been translating ‘external’ strategies and policy shifts into workable solutions that benefit the local context and individual staff and citizens. 
 Ian brings significant experience of project management and programme leadership and has led large and complex change programmes delivered within challenging stakeholder environments. He has worked extensively for central government departments including the Department for Education (DfE) and Department of Health and Social Care (DHSC), local authorities, ICSs, and private children’s services providers. <br>
@@ -49,7 +49,7 @@ If you would like to discuss payments, invoicing or other financial matters plea
 
 If you have more general questions, then please email [admin@icywaters.co.uk](mailto:admin@icywaters.co.uk)<br>
 
-If you have a question relating to data and our privacy notice, then please email [data@icyewaters.co.uk](mailto:data@icyewaters.co.uk)<br>
+If you have a question relating to data and our privacy notice, then please email [data@icywaters.co.uk](mailto:data@icywaters.co.uk)<br>
 
 # Data privacy
 
