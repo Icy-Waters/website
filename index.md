@@ -4,7 +4,7 @@ layout: default
 
 # About us
 
-Icy Waters Consulting Limited was established in 2023 to provide management consulting services to help organisations deliver excellent services to citizens.
+Icy Waters Consulting Limited was established in 2023 to provide management consulting services to help organisations deliver excellent services to citizens. <br>
 Based in Worcestershire, but working nationally, Icy Waters Consulting supports public and private sector organisations to establish new services or improve existing services in order to support citizens more effectively. 
 Our clients will predominantly be those supporting and delivering services to children and adults, including statutory children’s and adults social care services.
 
@@ -26,7 +26,7 @@ We will typically combine a range of services and expertise to deliver these obj
 
 # Meet the team
 
-## Ian Waters
+ **Ian Waters**
 
 Ian is the managing director and will lead client delivery.
 Ian’s background as a Social Worker within a local authority alongside# his experience leading transformation programmes in the public sector gives him a unique perspective enabling him to work effectively at all levels of an organisation, with external policy makers and regulators to design and deliver services to improve outcomes. 
