@@ -29,9 +29,8 @@ We will typically combine a range of services and expertise to deliver these obj
 * Lean and Six Sigma methods and tools
 
 # Meet the team
-<br>
-<span style="font-size:1.2em;"><strong>Ian Waters</strong></span>
 
+<span style="font-size:1.2em;"><strong>Ian Waters</strong></span>
 
 Ian is the managing director and will lead client delivery.<br>
 
