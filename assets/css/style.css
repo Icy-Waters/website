@@ -4,3 +4,4 @@
 @import "{{ site.theme }}";
 header {
   background: #3399cc;
+}
