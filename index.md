@@ -6,12 +6,15 @@ title: ICY Waters Consulting
 # About us
 
 Icy Waters Consulting Limited was established in 2023 to provide management consulting services to help organisations deliver excellent services to citizens. <br>
+
 Based in Worcestershire, but working nationally, Icy Waters Consulting supports public and private sector organisations to establish new services or improve existing services in order to support citizens more effectively. <br>
+
 Our clients will predominantly be those supporting and delivering services to children and adults, including statutory children’s and adults social care services.
 
 # Services we offer
 
 We are committed to working in partnership with our clients to design and improve services that can be delivered effectively and which ultimately benefit individual’s lives.<br>
+
 We will typically combine a range of services and expertise to deliver these objectives, for example:
 
 * Service Design and Implementation
@@ -31,9 +34,12 @@ We will typically combine a range of services and expertise to deliver these obj
 
 
 Ian is the managing director and will lead client delivery.<br>
+
 Ian’s background as a Social Worker within a local authority alongside# his experience leading transformation programmes in the public sector gives him a unique perspective enabling him to work effectively at all levels of an organisation, with external policy makers and regulators to design and deliver services to improve outcomes.<br> 
+
 Ian is passionate about improving citizen’s lives and has significant transformation experience in organisations responsible for children’s social care, adult’s social care and Integrated Care Systems (ICSs). A common feature of his work has been translating ‘external’ strategies and policy shifts into workable solutions that benefit the local context and individual staff and citizens. 
 Ian brings significant experience of project management and programme leadership and has led large and complex change programmes delivered within challenging stakeholder environments. He has worked extensively for central government departments including the Department for Education (DfE) and Department of Health and Social Care (DHSC), local authorities, ICSs, and private children’s services providers. <br>
+
 Prior to consulting, Ian held various practice and managerial roles across children’s social care, including in local authority children’s homes, services for children in care, youth offending teams and frontline child protection services. 
 
 # Contact us
