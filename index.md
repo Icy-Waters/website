@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ICY Waters Consulting
 ---
 
 # About us
