@@ -26,7 +26,7 @@ We will typically combine a range of services and expertise to deliver these obj
 
 # Meet the team
 
- **Ian Waters**
+<strong style=font-size:18pt>Ian Waters</strong>
 
 Ian is the managing director and will lead client delivery.
 Ian’s background as a Social Worker within a local authority alongside# his experience leading transformation programmes in the public sector gives him a unique perspective enabling him to work effectively at all levels of an organisation, with external policy makers and regulators to design and deliver services to improve outcomes. 
@@ -51,4 +51,4 @@ Please click on the link for a copy of our [privacy notice.](/assets/Privacy pol
 - Icy Waters Consulting Limited is registered with the Information Commissioner’s Office. Registration reference: ZB636399
 - Ian Waters is a social worker, registered with Social Work England. Social worker registration number: SW42532
 - Member of the Federation of Small Businesses
-![FSB logo](assets/fsb.png)
+<img src="assets/fsb.png" height="80">
