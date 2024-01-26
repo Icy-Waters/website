@@ -45,8 +45,11 @@ Prior to consulting, Ian held various practice and managerial roles across child
 # Contact us
 
 If you would like to get in touch to talk about new or existing work, then please email [ian@icywaters.co.uk](mailto:ian@icywaters.co.uk)<br>
+
 If you would like to discuss payments, invoicing or other financial matters please contact [finance@icywaters.co.uk](mailto:finance@icywaters.co.uk)<br>
+
 If you have more general questions, then please email [admin@icywaters.co.uk](mailto:admin@icywaters.co.uk)<br>
+
 If you have a question relating to data and our privacy notice, then please email [data@icyewaters.co.uk](mailto:data@icyewaters.co.uk)<br>
 
 # Data privacy
@@ -56,8 +59,12 @@ Please click on the link for a copy of our [privacy notice.](/assets/Privacy pol
 # Company details
 
 Icy Waters Consulting Limited. Registered Office: The Oakley, Kidderminster Road, Droitwich, Worcestershire, WR9 9AY. Company Number 15281378<br>
+
 Icy Waters Consulting Limited is registered with the Information Commissioner’s Office. Registration reference: ZB636399<br>
+
 Ian Waters is a social worker, registered with Social Work England. Social worker registration number: SW42532<br>
+
 Member of the Federation of Small Businesses<br>
+
 <br>
 <img src="assets/fsb.png" height="80">
